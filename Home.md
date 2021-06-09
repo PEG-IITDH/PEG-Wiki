@@ -17,7 +17,35 @@ The research work undertaken in the lab falls under the following categories:
 #### Events
 
 #### People
-The group consists of Faculty, staff and students. 
+The group consists of Faculty, staff and students.
+
+###### Faculty:
+- [Pratyasa Bhui] 
+- [Satish Naik]
+- [Abhijit Kshirsagar]
+
+###### Staff:
+
+
+
+###### Students (PhD)
+
+- [Kotakonda Chakravarthy]
+- [Raghavendra Venkata]
+- [Little Pradhan]
+- [Abhishek Saini]
+
+###### Students (M. S.)
+
+- [Faheem Ul Haq]
+
+###### Students (B. Tech / Projects)
+
+- [Baliram Chaurasiya]
+- [Shivam]
+- [Swakath U]
+
+
 
 #### Links
 - [Power Group homepage](https://sites.google.com/iitdh.ac.in/peg-iitdh)
