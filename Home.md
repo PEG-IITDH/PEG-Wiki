@@ -53,7 +53,7 @@ The group consists of Faculty, staff and students.
 - [Power Lab Wiki](tbd)
 
 #### For New Users
-This wiki is hosted within Gitea. To edit this wiki you only need to know Markdown syntax.
+This wiki is hosted within Gitea. To learn how to edit and extend this wiki, click [here](Editing).
 
 Please note that you need to log in to giteafor editing it.
 Also see the FAQs and the help section.
