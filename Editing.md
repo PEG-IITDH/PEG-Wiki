@@ -9,4 +9,4 @@ If you have Ruby installed, you can clone this repo on your local machine, make 
 3. Install Gollum: ```gem install gollum```
 4. Launch Gollum in the directory where the wiki files have been cloned: ```gollum ./```
 5. View and edit the local files by pointing a browser to ```http://localhost:4567```
-6. Make sure to save and then commit and push the changes upstream after all edits are done.
+6. Whenever a page is saved, a commit is created automatically by gollum. Make sure to push the changes upstream after all edits are done.
