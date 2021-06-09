@@ -10,9 +10,9 @@ The research work undertaken in the lab falls under the following categories:
 - Power Converters
 
 #### Resources
-*[[Hardware]]
-*[[Software]]
-*[[Coursework | Courses]]
+* Hardware
+* Software
+* Coursework
 
 #### Events
 
@@ -20,10 +20,9 @@ The research work undertaken in the lab falls under the following categories:
 The group consists of Faculty, staff and students. 
 
 #### Links
-- [Power Group homepage ]
-- [http://www.dese.iisc.ac.in DESE Website]
-- [http://www.iisc.ac.in IISc Website]
-- [http://powerlab.dese.iisc.ac.in/ Power Lab Website]
+- [Power Group homepage](https://sites.google.com/iitdh.ac.in/peg-iitdh)
+- [Power Lab Git Repo](https://gitea.iitdh.ac.in/PEG)
+- [Power Lab Wiki](tbd)
 
 #### For New Users
 This wiki is hosted within Gitea. To edit this wiki you only need to know Markdown syntax.
